@@ -1,0 +1,6 @@
+Fonts
+- Title font found at https://www.dafont.com/white-on-black.font
+- Body font found at https://www.dafont.com/digital-7.font
+
+Sounds
+- Menu ambience: Cityscape 03 100208.wav by LG -- https://freesound.org/s/89960/ -- License: Attribution 4.0
